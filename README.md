@@ -17,4 +17,7 @@ This dataset contains daily time series summary tables, including confirmed, dea
 
 Three time series tables are for the global confirmed cases, recovered cases, and deaths. Australia, Canada, and China are reported at the province/state level.
 
-Dependencies of the Netherlands, the United Kingdom, France, and Denmark are listed under the province/state level. The United States and other countries are at the country level. The tables are named  `time_series_covid19_confirmed_global.csv` and  `time_series_covid19_deaths_global.csv`, and  `time_series_covid19_recovered_global.csv`, respectively.
+Dependencies of the Netherlands, the United Kingdom, France, and Denmark are listed under the province/state level. The United States and other countries are at the country level. The tables are named  
+`time_series_covid19_confirmed_global.csv`,    
+`time_series_covid19_deaths_global.csv`, and  
+`time_series_covid19_recovered_global.csv`, respectively.
