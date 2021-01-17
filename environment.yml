@@ -1,0 +1,16 @@
+name: covid
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7
+  - statsmodels
+  - numpy
+  - voila
+  - pandas
+  - matplotlib
+  - plotly
+  - jupyterlab=3
+  - seaborn
+  - scikit-learn
+prefix: /Users/dimitri/opt/miniconda3/envs/covid
