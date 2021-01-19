@@ -13,4 +13,5 @@ dependencies:
   - jupyterlab=3
   - seaborn
   - scikit-learn
+  - folium
 prefix: /Users/dimitri/opt/miniconda3/envs/covid
