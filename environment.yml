@@ -15,4 +15,5 @@ dependencies:
   - scikit-learn
   - folium
   - ipywidgets
+  - jedi==0.17.2
 prefix: /Users/dimitri/opt/miniconda3/envs/covid
